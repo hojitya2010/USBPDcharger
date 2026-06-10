@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UC3842BD1G
+D Latching PWM for Cycle-By-Cycle Current Limiting; Oscillator Frequency Guaranteed at 250 kHz; Low Startup and Operating Current; Trimmed Oscillator for Precise Frequency Control; Internally Trimmed Reference with Undervoltage Lockout; Undervoltage Lockout with Hysteresis; Automatic Feed Forward Compensation; High Current Totem Pole Output; Current Mode Operation to 500 kHz; Pb-Free Packages are Available
+K
+F https://www.onsemi.com/pub/Collateral/UC3842B-D.PDF
+$ENDCMP
+#
+#End Doc Library

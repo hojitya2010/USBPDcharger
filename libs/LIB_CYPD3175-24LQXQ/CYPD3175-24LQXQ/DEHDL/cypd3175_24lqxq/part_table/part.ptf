@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CYPD3175_24LQXQ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "CYPD3175-24LQXQ" (!) = "", "QFN50P400X400X60-25N-D", "Quad Flat No-Lead", "727-CYPD3175-24LQXQ", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/CYPD3175-24LQXQ?qs=1mbolxNpo8fiO8YziS703A%3D%3D", "CYPRESS SEMICONDUCTOR - CYPD3175-24LQXQ - USB TYPE-C PD CONTROLLER, QFN-24", "https://www.cypress.com/file/363381/download", "0.6 mm"
+END_PART
+
+END.

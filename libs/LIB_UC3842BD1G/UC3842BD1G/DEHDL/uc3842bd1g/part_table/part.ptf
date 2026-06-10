@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UC3842BD1G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "UC3842BD1G" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "863-UC3842BD1G", "https://www.mouser.co.uk/ProductDetail/onsemi/UC3842BD1G?qs=xZq1yRCsb1fulNC3cmc0Yg%3D%3D", "UC3842BD1G", "https://www.arrow.com/en/products/uc3842bd1g/on-semiconductor?utm_currency=USD&region=europe", "Latching PWM for Cycle-By-Cycle Current Limiting; Oscillator Frequency Guaranteed at 250 kHz; Low Startup and Operating Current; Trimmed Oscillator for Precise Frequency Control; Internally Trimmed Reference with Undervoltage Lockout; Undervoltage Lockout with Hysteresis; Automatic Feed Forward Compensation; High Current Totem Pole Output; Current Mode Operation to 500 kHz; Pb-Free Packages are Available", "https://www.onsemi.com/pub/Collateral/UC3842B-D.PDF", "1.75 mm"
+END_PART
+
+END.

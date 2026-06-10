@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=UC3842BD1G
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=5.1
+Released=2015-09-18 09:12:50
+Downloaded=2026-06-10 11:13:08
+3D=Y

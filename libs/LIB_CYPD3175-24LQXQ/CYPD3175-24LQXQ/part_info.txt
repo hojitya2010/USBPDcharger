@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=CYPD3175-24LQXQ
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=2.1
+Released=2019-02-18 07:08:23
+Downloaded=2026-06-10 11:18:52
+3D=Y
